@@ -1,5 +1,5 @@
 ### Oi, eu sou o André!
- - 📚 Estudando HTML e CSS
+ - 📚 Estudando Java
  - 💻 Buscando oportunidades de trabalho e aprendizado
  
 
