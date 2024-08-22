@@ -1,7 +1,7 @@
 ### Oi, eu sou o André!
- - 📚 Estudando Java
+ - 📚 Estudando Python e Sql
  - 💻 Buscando oportunidades de trabalho e aprendizado
- 
+ - 📈 Data Science
 
 
 
