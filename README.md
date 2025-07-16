@@ -1,7 +1,6 @@
-### Oi, eu sou o André!
- - 📚 Python e Power BI
- - 💻 Buscando oportunidades de trabalho e aprendizado
- - 📈 Data analytics
-
+### Hi, I’m André!
+- 💻 CyberSec
+- 📈 Data Analytics
+- 🤓 Python, Networking & Xploits
 
 
