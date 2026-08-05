@@ -1,6 +1,6 @@
 # Hi, I'm André! 👋
 
-🎓 Analysis and Systems Development student focused on Data Engineering.
+🎓 Student focused on Data Engineering.
 
 🚀 Interested in building data pipelines, ETL processes and scalable data solutions.
 
