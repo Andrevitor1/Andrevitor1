@@ -6,14 +6,14 @@
 
 ## 💻 Technologies
 
-🐍 Python
-🗄️ SQL
-🌐 REST APIs
-🐧 Linux
-🔧 Git & GitHub
-⚡ Apache Spark
-🔷 Databricks
-🌊 Apache Airflow
+🐍 Python <br>
+🗄️ SQL <br>
+🌐 REST APIs <br>
+🐧 Linux <br>
+🔧 Git & GitHub <br>
+⚡ Apache Spark <br>
+🔷 Databricks <br>
+🌊 Apache Airflow <br>
 📊 Power BI
 
 ## 📫 Contact
