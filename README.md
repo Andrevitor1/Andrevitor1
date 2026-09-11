@@ -13,8 +13,8 @@
 🔧 Git & GitHub
 ⚡ Apache Spark
 🔷 Databricks
-🧱 Delta Lake
 🌊 Apache Airflow
+📊 Power BI
 
 ## 📫 Contact
 
