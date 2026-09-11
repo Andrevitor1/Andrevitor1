@@ -1,19 +1,21 @@
 # Hi, I'm André! 👋
 
-🎓 Student focused on Data Engineering.
+🎓 Software Development graduate, focused on building my career in Technology and Data.
 
-🚀 Interested in building data pipelines, ETL processes and scalable data solutions.
+💻 Interested in technical support, systems integration, APIs and data engineering.
 
 ## 💻 Technologies
 
-🐍 Python  
-🗄️ SQL  
-⚡ Apache Spark  
-🔷 Databricks  
-🧱 Delta Lake  
-🌊 Apache Airflow  
-☁️ Google Cloud  
-📊 Power BI 
+🐍 Python
+🗄️ SQL
+🌐 REST APIs
+🐧 Linux
+🔧 Git & GitHub
+⚡ Apache Spark
+🔷 Databricks
+🧱 Delta Lake
+🌊 Apache Airflow
 
 ## 📫 Contact
+
 https://www.linkedin.com/in/andrevitor1/
